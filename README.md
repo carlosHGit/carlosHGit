@@ -8,7 +8,7 @@
 
 I am a Junior Front End and Python Developer who is exploring Node Js and Machine Learning. 
  
- 🔭 I’m planning for a Project **Telemetry monitoring with ESP32 and Node Js server coneection with Sockets**.
+ 🔭 I’m planning for a Project **Telemetry monitoring with ESP32 and Node Js server connection with Sockets**.
  
  🌱 I’m currently learning  <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width=30px>  and  <img style="vertical-align: middle;" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" width=30px>
  
