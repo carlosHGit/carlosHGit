@@ -12,7 +12,7 @@ I am a Junior Front End and Python Developer who is exploring Node Js and Machin
  
  🌱 I’m currently learning  <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width=30px>  and  <img style="vertical-align: middle;" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" width=30px>
  
- :books: I want to learn <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width=30px> and <img src="https://image.shutterstock.com/image-photo/image-260nw-1378652867.jpg" width=30px>
+ :books: I want to learn <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width=30px> and <img src="https://image.flaticon.com/icons/png/128/919/919853.png" width=30px>
  
  💬 Ask me about Front End Development, Python, and any funny Tech-related stuff.
 
