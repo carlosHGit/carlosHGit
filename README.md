@@ -44,8 +44,8 @@ I am a Junior Front End and Python Developer who is exploring Node Js and Machin
 
 ### You can find me as:
 
-<a href="https://www.linkedin.com/in/carlos-mario-henao-gonzalez-619a31a6/"><img align="left" alt="carlosHGit | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/128/174/174855.png" /></a>
+<a href="https://www.instagram.com/carlos.henaog/?hl=es-la"><img align="left" alt="carlosHGit | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/128/174/174855.png" /></a>
 
-<a href="https://www.instagram.com/carlos.henaog/?hl=es-la"><img align="left" alt="Instagram | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/174/174857.png"  /></a>
+<a href="https://www.linkedin.com/in/carlos-mario-henao-gonzalez-619a31a6/"><img align="left" alt="Instagram | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/174/174857.png"  /></a>
 
 <br/>
