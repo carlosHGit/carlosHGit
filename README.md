@@ -23,7 +23,7 @@ I am a Junior Front End and Python Developer who is exploring Node Js and Machin
 <li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> To read philosophy and ancient history</li>
 
 <li><g-emoji class="g-emoji" alias="bike" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b2.png">🏃‍♂️</g-emoji> Jogging, I really love it</li>
-<li><g-emoji class="g-emoji" alias="microphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a4.png">🎤</g-emoji> Classic and Rock & Roll, ok Yeah! 🤘 </li>
+<li><g-emoji class="g-emoji" alias="microphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a4.png">🎤</g-emoji> Classic and Rock & Roll, oh Yeah! 🤘 </li>
 </ul>
 
 
