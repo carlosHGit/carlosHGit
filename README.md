@@ -1,4 +1,4 @@
-### Hey Carlos Henao 🙋🏽‍♂️
+### Hey! I'm Carlos Henao 🙋🏽‍♂️
 
 ---
 
