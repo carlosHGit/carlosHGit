@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/65434330/120910132-ead60300-c641-11eb-9cc5-4155a97b2b81.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Junior Front End and Python Developer who is exploring Node Js and Machine Learning. 
+I am a Junior FrontEnd  who is learning about Full Stack (MERN) with Node Js, Express and Mongo DB like database. 
  
  🔭 I’m planning for a Project **Telemetry monitoring with ESP32 and Node Js server connection with Sockets**.
  
