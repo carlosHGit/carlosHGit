@@ -6,13 +6,13 @@
   <img src="https://user-images.githubusercontent.com/65434330/120910132-ead60300-c641-11eb-9cc5-4155a97b2b81.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Junior FrontEnd  who is learning about Full Stack (MERN) with Node Js, Express and Mongo DB like database. 
+I am a FrontEnd  with skill in develop webpages based on React Js and NodeJs
  
  🔭 I’m planning for a Project **Telemetry monitoring with ESP32 and Node Js server connection with Sockets**.
  
- 🌱 I’m currently learning  <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width=25px>  and  <img style="vertical-align: middle;" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" width=25px>
+ 🌱 I’m currently developing  <img src="http://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png" width=25px>  and  <img style="vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" width=25px>
  
- :books: I want to learn <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width=30px> and <img src="https://image.flaticon.com/icons/png/128/919/919853.png" width=25px>
+ :books: I planning to learn <img src="https://user-images.githubusercontent.com/65434330/155654395-80529232-2c45-4192-91dc-909c1dcfe283.png" width=30px> and <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fevanwallace%2Fstatus%2F1360680123746242560%3Flang%3Dar-x-fm&psig=AOvVaw1flRezj-kTMdX6uyAXkPdK&ust=1645850127207000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLjjodSDmvYCFQAAAAAdAAAAABAD" width=25px>
  
  💬 Ask me about Front End Development, Python, and any funny Tech-related stuff.
 
