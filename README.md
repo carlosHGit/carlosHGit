@@ -1,63 +1,83 @@
-### Hey! I'm Carlos Henao 🙋🏽‍♂️
+<h1 align='center'>🖖Hello there! I'm Carlos Henao 🧑‍💻</h1>
 
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/65434330/120910132-ead60300-c641-11eb-9cc5-4155a97b2b81.png" width="100%" title="Intro Card" alt="Intro Card">
+<p align='center'>
+    Frontend developer React JS and Next Js. Biomedical Technologist and RPA Developer.
+    Curious about technology, proactive and focused on finding the best solution to each situation.
 </p>
 
-I am a FrontEnd  with skill in develop webpages based on React Js and NodeJs
+<p align='center'>
+    <a href="https://www.linkedin.com/in/carlos-henaog/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:carlos.henaog@udea.edu.co?subject=Hello%20Carlos"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+</p>
+
+<hr>
+
+<h4>⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt</h4>
+<p >
+  <h2><h2/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>&nbsp;&nbsp;
+  
+  <h2><h2/>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;    
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mongodb%20-%2358aa50.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+    
+  <h2><h2/>
+  <img src="https://img.shields.io/badge/linux%20-%23000.svg?&style=for-the-badge&logo=linux&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/git%20-%23F05133.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
  
- 🔭 I’m planning for a Project **Telemetry monitoring with ESP32 and Node Js server connection with Sockets**.
- 
- 🌱 I’m currently developing  in React Js  and  Node Js
- 
- :books: I planning to learn Fastify and Es build
- 
- 💬 Ask me about Front End Development, Python, RPA and any funny Tech-related stuff.
+</p>
+
+<hr>
+
+<h4>🤓&nbsp;&nbsp;&nbsp;Certifications at: </h4>
+
+<p align="Center">
+    <a href="https://platzi.com/@carloshenaog/">
+    <img src="https://img.shields.io/badge/-Platzi-223452?style=for-the-badge&labelColor=223452&logo=Platzi&logoColor=97CA3E" /></a>&nbsp;&nbsp;
+    <a href="https://certificates.automationanywhere.com/262461a4-0264-48c2-b345-09bb5c3d6582">
+    <img src="https://university.automationanywhere.com/templates/g5_helium/custom/images/header/logo_automation-anywhere.png" /></a>
+</p>
+
+<hr>
+<h4>👨‍💻&nbsp;&nbsp;&nbsp;My Portfolio</h4>
 
 
-<p><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> Mis gustos</p>
-<ul>
-<li><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> Coding in (Arduino, Python, Front-End)</li>
-<li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> To read philosophy and ancient history</li>
+<p align="Center">This is the place where you can see some of my projects I've worked on.</p>
+<p align="Center">   
+    <a href="https://carlos-henao-portfolio-frontend.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio%20Here-FFFFFF?&logo=GitHub&logoColor=black&style=for-the-badge"/></a>
 
-<li><g-emoji class="g-emoji" alias="bike" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b2.png">🏃‍♂️</g-emoji> Jogging, I really love it</li>
-<li><g-emoji class="g-emoji" alias="microphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a4.png">🎤</g-emoji> Classic and Rock & Roll, oh Yeah! 🤘 </li>
-</ul>
+</p>
 
 
+<hr>
 
+<details>
+<summary>
+  Github Stats
+</summary>
 
-![Profile views](https://gpvc.arturio.dev/carlosHGit)  <img src="https://img.shields.io/github/followers/carlosHGit?label=Follow" style=" float:left, margin-right:10px" />
+<br >
 
-
----
-
-
-### Tech & Tools Preference
-
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-
-
-
-### Other Languages I know
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-
-
-### You can find me as:
-
-<a href="https://www.instagram.com/carlos.henaog/?hl=es-la" target="_blank"><img align="left" alt="carlosHGit | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/128/174/174855.png" /></a>
-
-<a href="https://www.linkedin.com/in/carlos-mario-henao-gonzalez-619a31a6/" target="_blank"><img align="left" alt="Instagram | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/174/174857.png"  /></a>
-
-<br/>
+<p>
+    <a href="https://github.com/carlosHGit/"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=juanpanu.juanpanu&label=Visitor%20Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/carlosHGit/"><img src="https://img.shields.io/github/followers/carlosHGit?color=5C005C&logo=Github&logoColor=FFFFFF&style=for-the-badge&labelColor=5C005C"/></a>
+  
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosHGit&theme=blue-green"/>
+   
+  
+</p>
+</details>
