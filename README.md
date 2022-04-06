@@ -73,10 +73,7 @@
 
 <p>
     <a href="https://github.com/carlosHGit/"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=juanpanu.juanpanu&label=Visitor%20Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/carlosHGit/"><img src="https://img.shields.io/github/followers/carlosHGit?color=5C005C&logo=Github&logoColor=FFFFFF&style=for-the-badge&labelColor=5C005C"/></a>
-  
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosHGit&theme=blue-green"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=carlosHGit&theme=blue-green"/>
    
   
 </p>
