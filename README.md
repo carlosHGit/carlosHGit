@@ -1,7 +1,7 @@
 <h1 align='center'>🖖Hello there! I'm Carlos Henao 🧑‍💻</h1>
 
 <p align='center'>
-    Frontend developer React JS and Next Js. Biomedical Technologist and RPA Developer.
+    Frontend developer React JS and Next Js. 
     Curious about technology, proactive and focused on finding the best solution to each situation.
 </p>
 
